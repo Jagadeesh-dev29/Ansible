@@ -9,4 +9,5 @@
     
 # giving sudo access in Ansible to install packages
       become:yes
+      eg :- in 02-playbook.yaml
      
