@@ -1,5 +1,5 @@
 - name: play level variables
-  host: local
+  hosts: local
   connection : local
   vars :
     course : "Devops with Aws"
